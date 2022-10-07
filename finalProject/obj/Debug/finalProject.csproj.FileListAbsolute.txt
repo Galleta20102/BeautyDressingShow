@@ -1,0 +1,132 @@
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\User\Desktop\109-2\image\finalProject_v1\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject_v1\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\University\109_2\影像處理導論\finalProject\finalProject_v3_connected_OK\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.pdb
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.xml
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\dragonCat\Downloads\finalProject_v6_Allfunction\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.pdb
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.xml
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.pdb
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.Blob.xml
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.Extensions.xml
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\yuntch\109-2\image processing\finalProject_V7\finalProject\finalProject\obj\Debug\finalProject.pdb
